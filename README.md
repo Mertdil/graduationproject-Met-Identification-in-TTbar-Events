@@ -1,8 +1,9 @@
 # graduationproject_2023
 Met Identification with WGAN-GP algorithms.
+
 •Deep learning algorithms have been used to study lost energy momentum, one of the Standard Model Problems in physics. 
 
-•It aims to predict and reconstruct anomalies below the signal region that cannot be easily observed.
+•It aims to predict and reconstruct anomalies below the signal region that cannot be easily observed .
 
 •This work is dedicated to the use of a special type of Neural Network called Wassetein Generative Adversial Network-Gradient Penalthy (WGAN-GP).
 

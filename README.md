@@ -1,4 +1,11 @@
 # graduationproject_2023
 Met Identification with WGAN-GP algorithms.
-In recent years, GANs have gained increasing attention as generative models that are often superior to Variational Autoencoders and have shown very impressive results in image formation. While the Standard Model (SM) has shown great success in providing experimental predictions, it leaves some phenomena unexplained and is far from being a complete theory of fundamental interactions. It is therefore
-very interesting to integrate these new tools into our search for missing transverse energy. This work is dedicated to the use of a special type of Neural Network called WGAN-GP: WGAN-GP is focused on the search for missing transverse energy and kinematic distributions for charged leptons and jets. It aimed to use the method of missing transverse energy distributions to estimate and predict anomalies below the missing signal region. A correlation between Monte Carlo simulations and WGAN-GP signals was found in extracting a distribution of signals produced under missingenergy.
+•Deep learning algorithms have been used to study lost energy momentum, one of the Standard Model Problems in physics. 
+
+•It aims to predict and reconstruct anomalies below the signal region that cannot be easily observed.
+
+•This work is dedicated to the use of a special type of Neural Network called Wassetein Generative Adversial Network-Gradient Penalthy (WGAN-GP).
+
+•WGAN-GP is focused on the search for missing transverse energy and kinematic distributions for charged leptons and jets, which are subatomic particles.
+
+• A correlation has been found between Monte Carlo simulations used to detect particles and WGAN-GP signals that extract the distribution of signals produced under missing energy.
